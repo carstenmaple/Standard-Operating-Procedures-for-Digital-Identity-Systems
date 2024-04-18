@@ -9,5 +9,5 @@ The aim of this work is to design SOPs that accommodate the Minimal Acceptable F
 
 These SOPs are subject to further improvements and provides an approach to developing Trustworthy Digital Identity System. For suggestion and collaboration, please contact asheik@turing.ac.uk.
  
-# Sponsors
-This work is part of Trustworthy Digital Infrastructure for Identity Systems, funded by Bill and Melinda Gates Foundation.
+# Sponsor
+This work is part of Trustworthy Digital Infrastructure for Identity Systems, funded by Bill and Melinda Gates Foundation. This work is executed in collaboration with MOSIP.
