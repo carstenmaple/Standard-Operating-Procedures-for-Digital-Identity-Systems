@@ -11,3 +11,4 @@ These SOPs are subject to further improvements and provides an approach to devel
  
 # Sponsor
 This work is part of Trustworthy Digital Infrastructure for Identity Systems, funded by Bill and Melinda Gates Foundation. This work is executed in collaboration with MOSIP.
+![2992ALAN_Turing Digital Identities_V14_MK_vector 1 1](https://github.com/tarzs/Standard-Operating-Procedures-for-Digital-Identity-Systems/assets/46527187/325ba34b-a88d-4c76-9253-d1a5b849e7e9)
