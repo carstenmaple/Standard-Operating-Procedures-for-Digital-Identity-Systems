@@ -1,0 +1,19 @@
+Set 1 comments:-> Privacy
+
+OB.1.3.c,d: POI, POA, POR attributes missing.
+ob.1.1.a;2.a,b,c: declaration of data processing and rights in T&C missing.
+ob.1.3.a: T&C form before signing missing.
+ob.1.3.b: POR basic attributes missing.
+
+Set 2 comments:->
+ob.3.b: Manual address verification (In-person)
+
+
+
+
+
+
+
+
+-> robustness, ethics, resilience, reliability
+
