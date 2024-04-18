@@ -1,6 +1,6 @@
 # Standard Operating Procedures for Digital Identity Systems
-## Prof. Carsten Maple, Al Tariq Sheik, Mark Hooper, Gregory Epiphaniou
-### cm@warwick.ac.uk, asheik@turing.ac.uk, mhooper@turing.ac.uk, gregory.epiphaniou@warwick.ac.uk
+### Prof. Carsten Maple, Al Tariq Sheik, Mark Hooper, Gregory Epiphaniou
+##### cm@warwick.ac.uk, asheik@turing.ac.uk, mhooper@turing.ac.uk, gregory.epiphaniou@warwick.ac.uk
 
 # Introduction
 Governments around the world are committed to supporting the roll out of national digital IDs, but there are privacy and security implications associated with scaling these systems at a national level.
