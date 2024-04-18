@@ -5,5 +5,5 @@ The aim of this work was to design SOPs that accommodate the Minimal Acceptable 
 2.	Authentication – The modules and mechanisms for approving the identity of an applicant or a claimant (a person who claims to possess a registered identity).
 3.	DID Lifecycle Management – The recording, maintenance and management of the DID account holder.
  
-# Funders
+# Sponsors
 This work is part of Trustworthy Digital Infrastructure for Identity Systems, funded by Bill and Melinda Gates Foundation.
