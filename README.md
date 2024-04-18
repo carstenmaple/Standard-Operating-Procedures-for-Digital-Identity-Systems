@@ -1,3 +1,13 @@
+# Introduction
+Governments around the world are committed to supporting the roll out of national digital IDs, but there are privacy and security implications associated with scaling these systems at a national level.
+
+Responsible implementation of ID services is a critical enabler for financial inclusion; it enables access to services and enactment of civil rights. According to the World Bank, more than one billion people are currently living without an official digital identity.
+
+The Alan Turing Institute is joining a vibrant community of NGOs, charities, private sector providers, universities and think tanks addressing global identity challenges in the digital age.
+
+Questions of trust are based around the complex interplay of socio-technical considerations, requiring multi-disciplinary expertise. The ‘trustworthiness’ of digital IDs is characterised by multiple inter-related dimensions that include security, privacy, ethics, resilience, robustness and reliability. These dimensions are required to provide the knowledge, tools and guidance needed to implement privacy-preserving, secure identification systems. These set of Standard Operating Procedures aim towards developing a Trustworthy ID Systems.
+
+
 # Standard Operating Procedures for Digital Identity Systems
 _**Standard Operating Procedures**_ (SOPs) are a set of step-by-step instructions that explain in detail the ways to execute a function. SOPs typically decompose a function into discrete processes, with each process comprising sequential procedures. By following SOPs, system administrators promote a standardised approach to operation and working with consistent outcomes per function, thereby, ensuring conformance and consistency.
 
@@ -9,5 +19,6 @@ The aim of this work is to design SOPs that accommodate the Minimal Acceptable F
 
 These SOPs are subject to further improvements and provides an approach to developing Trustworthy Digital Identity System. For suggestion and collaboration, please contact asheik@turing.ac.uk.
  
-# Sponsors
-This work is part of Trustworthy Digital Infrastructure for Identity Systems, funded by Bill and Melinda Gates Foundation.
+# Sponsor
+This work is part of Trustworthy Digital Infrastructure for Identity Systems, funded by Bill and Melinda Gates Foundation. This work is executed in collaboration with MOSIP.
+![2992ALAN_Turing Digital Identities_V14_MK_vector 1 1](https://github.com/tarzs/Standard-Operating-Procedures-for-Digital-Identity-Systems/assets/46527187/325ba34b-a88d-4c76-9253-d1a5b849e7e9)
