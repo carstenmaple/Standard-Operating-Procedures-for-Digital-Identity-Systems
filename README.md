@@ -1,5 +1,5 @@
 # Standard Operating Procedures for Digital Identity Systems
-### Prof. Carsten Maple, Al Tariq Sheik, Mark Hooper, Gregory Epiphaniou
+### Carsten Maple, Al Tariq Sheik, Mark Hooper, Gregory Epiphaniou
 ##### cm@warwick.ac.uk, asheik@turing.ac.uk, mhooper@turing.ac.uk, gregory.epiphaniou@warwick.ac.uk
 
 # Introduction
