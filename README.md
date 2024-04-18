@@ -7,7 +7,7 @@ The aim of this work is to design SOPs that accommodate the Minimal Acceptable F
 2.	Authentication – The mechanisms for approving the identity of an applicant or a claimant.
 3.	DID Lifecycle Management – The recording, maintenance and management of the DID account holder.
 
-These SOPs are subject to further improvements and provides an initial approach to developing further complex and depended Digital Identity System. For changes, suggestions and improvments, please contact asheik@turing.ac.uk.
+These SOPs are subject to further improvements and provides an approach to developing Trustworthy Digital Identity System. For suggestions and improvements, please contact asheik@turing.ac.uk.
  
 # Sponsors
 This work is part of Trustworthy Digital Infrastructure for Identity Systems, funded by Bill and Melinda Gates Foundation.
