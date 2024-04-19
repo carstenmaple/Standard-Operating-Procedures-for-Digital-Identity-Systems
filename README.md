@@ -38,7 +38,7 @@ Al Tariq Sheik is a Cyber Security Doctoral Researcher at Warwick Manufacturing 
 
 ### Mark Hooper
 
-Dr. Mark Hooper
+Dr. Mark Hooper joined the Turing as a Technical Development Manager in June 2020 after many different roles in both business and academia. Mark has a PhD in Computer Science and has taught a variety of subjects including software development, robotics and product design. His industry experience has mainly focussed on managing small teams of software developers providing business automation solutions.
 
 
 ### Gregory Epiphaniou
